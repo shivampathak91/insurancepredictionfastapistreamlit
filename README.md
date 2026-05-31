@@ -1,4 +1,3 @@
-Here’s a professional `README.md` for your GitHub project:
 
 # Insurance Prediction Web App
 
@@ -10,7 +9,7 @@ This project is an end-to-end Machine Learning application that predicts medical
 
 * Age
 * Gender
-* BMI
+* Weight And Height
 * Number of Children
 * Smoking Status
 * Region
@@ -30,7 +29,6 @@ The application uses:
 * FastAPI
 * Uvicorn
 * Streamlit
-* Joblib
 
 ## Project Structure
 
